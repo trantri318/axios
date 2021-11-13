@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Javascript",
+      "description": "Basic"
+    },
+    {
+      "name": "slogan2",
+      "description": "s",
+      "id": 2
+    }
+  ]
+}
