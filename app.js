@@ -12,8 +12,8 @@ function renderCourses(courses){
     var html = courses.data.map(course =>
          `
             <li>
-                <h4>${course.name}</h4>
-                <p>${course.description}</p>
+                <h4>Name: ${course.name}</h4>
+                <p>Description: ${course.description}</p>
             </li>
         `
     )
